@@ -1,6 +1,6 @@
 # Laravel Todo list Project
 
-git clone https://github.com/your-username/todo-laravel.git
+git clone https://github.com/imhamzaaslam/todo-task-backend.git
 
 cd todo-laravel
 
